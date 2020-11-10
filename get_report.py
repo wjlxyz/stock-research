@@ -41,10 +41,10 @@ def get_single_trades_info(industry_code):
 def get_single_report(report_info):
     url = 'http://pdf.dfcfw.com/pdf/H3_' + str(report_info['infoCode']) + '_1.pdf'
     print('%s: %s' % (report_info['title'], url))
-    resp = requests.get(url=url, stream=True)
-    with open('./reports/' + report_info['title'] + '.pdf', 'wb') as file:
-        for data in resp.iter_content():
-            file.write(data)
+    # resp = requests.get(url=url, stream=True)
+    # with open('./reports/' + report_info['title'] + '.pdf', 'wb') as file:
+    #     for data in resp.iter_content():
+    #         file.write(data)
 
 
 if __name__ == '__main__':
