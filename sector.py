@@ -3,6 +3,10 @@ from datetime import datetime
 
 import requests
 
+region_sector = {}
+industry_sector = {}
+concept_sector = {}
+
 
 def get_sector_info(sector):
     today = datetime.now().timestamp()
@@ -12,24 +16,27 @@ def get_sector_info(sector):
           + '&cb=' \
           + '&_=' + str(today)
     resp = requests.get(url).text
-    data = json.loads(resp)
+    data = json.loads(resp)['data']
     print(data)
     return data
 
 
 # 020
 def get_all_region_sector():
-    get_sector_info('020')
+    region_sector = get_sector_info('020')
+    return region_sector
 
 
 # 016
 def get_all_industry_sector():
-    get_sector_info('016')
+    industry_sector = get_sector_info('016')
+    return industry_sector
 
 
 # 007
 def get_all_concept_sector():
-    get_sector_info('007')
+    concept_sector = get_sector_info('007')
+    return concept_sector
 
 
 if __name__ == '__main__':
