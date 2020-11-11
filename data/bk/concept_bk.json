@@ -1,0 +1,1941 @@
+[
+  {
+    "bkCode": "959",
+    "fubkCode": "007",
+    "bkName": "数字阅读",
+    "publishCode": "007353",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "958",
+    "fubkCode": "007",
+    "bkName": "虚拟电厂",
+    "publishCode": "007352",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "957",
+    "fubkCode": "007",
+    "bkName": "拼多多概念",
+    "publishCode": "007351",
+    "firstLetter": "P"
+  },
+  {
+    "bkCode": "956",
+    "fubkCode": "007",
+    "bkName": "eSIM",
+    "publishCode": "007350",
+    "firstLetter": "E"
+  },
+  {
+    "bkCode": "952",
+    "fubkCode": "007",
+    "bkName": "第三代半导体",
+    "publishCode": "007346",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "955",
+    "fubkCode": "007",
+    "bkName": "C2M概念",
+    "publishCode": "007349",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "954",
+    "fubkCode": "007",
+    "bkName": "盲盒经济",
+    "publishCode": "007348",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "953",
+    "fubkCode": "007",
+    "bkName": "鸿蒙概念",
+    "publishCode": "007347",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "951",
+    "fubkCode": "007",
+    "bkName": "刀片电池",
+    "publishCode": "007345",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "949",
+    "fubkCode": "007",
+    "bkName": "氦气概念",
+    "publishCode": "007344",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "948",
+    "fubkCode": "007",
+    "bkName": "MicroLED",
+    "publishCode": "007343",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "947",
+    "fubkCode": "007",
+    "bkName": "屏下摄像",
+    "publishCode": "007342",
+    "firstLetter": "P"
+  },
+  {
+    "bkCode": "946",
+    "fubkCode": "007",
+    "bkName": "EDA概念",
+    "publishCode": "007341",
+    "firstLetter": "E"
+  },
+  {
+    "bkCode": "945",
+    "fubkCode": "007",
+    "bkName": "装配建筑",
+    "publishCode": "007340",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "944",
+    "fubkCode": "007",
+    "bkName": "肝素概念",
+    "publishCode": "007339",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "943",
+    "fubkCode": "007",
+    "bkName": "汽车拆解",
+    "publishCode": "007338",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "942",
+    "fubkCode": "007",
+    "bkName": "商汤概念",
+    "publishCode": "007337",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "941",
+    "fubkCode": "007",
+    "bkName": "疫苗冷链",
+    "publishCode": "007336",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "939",
+    "fubkCode": "007",
+    "bkName": "辅助生殖",
+    "publishCode": "007335",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "938",
+    "fubkCode": "007",
+    "bkName": "代糖概念",
+    "publishCode": "007334",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "937",
+    "fubkCode": "007",
+    "bkName": "蚂蚁概念",
+    "publishCode": "007333",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "936",
+    "fubkCode": "007",
+    "bkName": "长寿药",
+    "publishCode": "007332",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "935",
+    "fubkCode": "007",
+    "bkName": "中芯概念",
+    "publishCode": "007331",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "934",
+    "fubkCode": "007",
+    "bkName": "蝗虫防治",
+    "publishCode": "007330",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "933",
+    "fubkCode": "007",
+    "bkName": "退税商店",
+    "publishCode": "007329",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "932",
+    "fubkCode": "007",
+    "bkName": "尾气治理",
+    "publishCode": "007328",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "929",
+    "fubkCode": "007",
+    "bkName": "地塞米松",
+    "publishCode": "007326",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "928",
+    "fubkCode": "007",
+    "bkName": "抖音小店",
+    "publishCode": "007325",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "927",
+    "fubkCode": "007",
+    "bkName": "免税概念",
+    "publishCode": "007324",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "926",
+    "fubkCode": "007",
+    "bkName": "湖北自贸",
+    "publishCode": "007323",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "925",
+    "fubkCode": "007",
+    "bkName": "三板精选",
+    "publishCode": "007322",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "924",
+    "fubkCode": "007",
+    "bkName": "地摊经济",
+    "publishCode": "007321",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "923",
+    "fubkCode": "007",
+    "bkName": "字节概念",
+    "publishCode": "007320",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "922",
+    "fubkCode": "007",
+    "bkName": "数据中心",
+    "publishCode": "007319",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "921",
+    "fubkCode": "007",
+    "bkName": "天基互联",
+    "publishCode": "007318",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "743",
+    "fubkCode": "007",
+    "bkName": "深证100R",
+    "publishCode": "007232",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "742",
+    "fubkCode": "007",
+    "bkName": "创业板综",
+    "publishCode": "007231",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "919",
+    "fubkCode": "007",
+    "bkName": "RCS概念",
+    "publishCode": "007317",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "918",
+    "fubkCode": "007",
+    "bkName": "特高压",
+    "publishCode": "007316",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "917",
+    "fubkCode": "007",
+    "bkName": "半导体",
+    "publishCode": "007315",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "916",
+    "fubkCode": "007",
+    "bkName": "氮化镓",
+    "publishCode": "007314",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "915",
+    "fubkCode": "007",
+    "bkName": "WiFi",
+    "publishCode": "007313",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "914",
+    "fubkCode": "007",
+    "bkName": "医废处理",
+    "publishCode": "007312",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "913",
+    "fubkCode": "007",
+    "bkName": "消毒剂",
+    "publishCode": "007311",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "912",
+    "fubkCode": "007",
+    "bkName": "远程办公",
+    "publishCode": "007310",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "911",
+    "fubkCode": "007",
+    "bkName": "口罩",
+    "publishCode": "007309",
+    "firstLetter": "K"
+  },
+  {
+    "bkCode": "909",
+    "fubkCode": "007",
+    "bkName": "降解塑料",
+    "publishCode": "007308",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "908",
+    "fubkCode": "007",
+    "bkName": "HIT电池",
+    "publishCode": "007307",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "907",
+    "fubkCode": "007",
+    "bkName": "转基因",
+    "publishCode": "007306",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "906",
+    "fubkCode": "007",
+    "bkName": "流感",
+    "publishCode": "007305",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "905",
+    "fubkCode": "007",
+    "bkName": "传感器",
+    "publishCode": "007304",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "904",
+    "fubkCode": "007",
+    "bkName": "广电",
+    "publishCode": "007303",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "903",
+    "fubkCode": "007",
+    "bkName": "云游戏",
+    "publishCode": "007302",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "902",
+    "fubkCode": "007",
+    "bkName": "MiniLED",
+    "publishCode": "007301",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "901",
+    "fubkCode": "007",
+    "bkName": "3D摄像头",
+    "publishCode": "007300",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "899",
+    "fubkCode": "007",
+    "bkName": "CRO",
+    "publishCode": "007299",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "898",
+    "fubkCode": "007",
+    "bkName": "胎压监测",
+    "publishCode": "007298",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "897",
+    "fubkCode": "007",
+    "bkName": "IPv6",
+    "publishCode": "007297",
+    "firstLetter": "I"
+  },
+  {
+    "bkCode": "896",
+    "fubkCode": "007",
+    "bkName": "白酒",
+    "publishCode": "007296",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "895",
+    "fubkCode": "007",
+    "bkName": "维生素",
+    "publishCode": "007295",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "894",
+    "fubkCode": "007",
+    "bkName": "阿兹海默",
+    "publishCode": "007294",
+    "firstLetter": "A"
+  },
+  {
+    "bkCode": "893",
+    "fubkCode": "007",
+    "bkName": "无线耳机",
+    "publishCode": "007293",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "892",
+    "fubkCode": "007",
+    "bkName": "乳业",
+    "publishCode": "007292",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "890",
+    "fubkCode": "007",
+    "bkName": "MLCC",
+    "publishCode": "007291",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "889",
+    "fubkCode": "007",
+    "bkName": "医疗美容",
+    "publishCode": "007290",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "888",
+    "fubkCode": "007",
+    "bkName": "农业种植",
+    "publishCode": "007289",
+    "firstLetter": "N"
+  },
+  {
+    "bkCode": "887",
+    "fubkCode": "007",
+    "bkName": "鸡肉概念",
+    "publishCode": "007288",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "886",
+    "fubkCode": "007",
+    "bkName": "智慧政务",
+    "publishCode": "007287",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "885",
+    "fubkCode": "007",
+    "bkName": "VPN",
+    "publishCode": "007286",
+    "firstLetter": "V"
+  },
+  {
+    "bkCode": "884",
+    "fubkCode": "007",
+    "bkName": "光刻胶",
+    "publishCode": "007285",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "883",
+    "fubkCode": "007",
+    "bkName": "数字货币",
+    "publishCode": "007284",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "880",
+    "fubkCode": "007",
+    "bkName": "UWB概念",
+    "publishCode": "007283",
+    "firstLetter": "U"
+  },
+  {
+    "bkCode": "879",
+    "fubkCode": "007",
+    "bkName": "标普概念",
+    "publishCode": "007282",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "878",
+    "fubkCode": "007",
+    "bkName": "分拆预期",
+    "publishCode": "007281",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "877",
+    "fubkCode": "007",
+    "bkName": "PCB",
+    "publishCode": "007280",
+    "firstLetter": "P"
+  },
+  {
+    "bkCode": "875",
+    "fubkCode": "007",
+    "bkName": "ETC",
+    "publishCode": "007278",
+    "firstLetter": "E"
+  },
+  {
+    "bkCode": "873",
+    "fubkCode": "007",
+    "bkName": "垃圾分类",
+    "publishCode": "007276",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "872",
+    "fubkCode": "007",
+    "bkName": "青蒿素",
+    "publishCode": "007275",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "868",
+    "fubkCode": "007",
+    "bkName": "GDR概念",
+    "publishCode": "007272",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "867",
+    "fubkCode": "007",
+    "bkName": "富时概念",
+    "publishCode": "007271",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "866",
+    "fubkCode": "007",
+    "bkName": "人造肉",
+    "publishCode": "007270",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "865",
+    "fubkCode": "007",
+    "bkName": "电子烟",
+    "publishCode": "007269",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "864",
+    "fubkCode": "007",
+    "bkName": "氢能源",
+    "publishCode": "007268",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "862",
+    "fubkCode": "007",
+    "bkName": "超级真菌",
+    "publishCode": "007266",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "861",
+    "fubkCode": "007",
+    "bkName": "数字孪生",
+    "publishCode": "007265",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "860",
+    "fubkCode": "007",
+    "bkName": "边缘计算",
+    "publishCode": "007264",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "859",
+    "fubkCode": "007",
+    "bkName": "超清视频",
+    "publishCode": "007263",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "858",
+    "fubkCode": "007",
+    "bkName": "MSCI中盘",
+    "publishCode": "007262",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "857",
+    "fubkCode": "007",
+    "bkName": "MSCI大盘",
+    "publishCode": "007261",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "856",
+    "fubkCode": "007",
+    "bkName": "工业大麻",
+    "publishCode": "007260",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "855",
+    "fubkCode": "007",
+    "bkName": "纳米银",
+    "publishCode": "007259",
+    "firstLetter": "N"
+  },
+  {
+    "bkCode": "854",
+    "fubkCode": "007",
+    "bkName": "华为概念",
+    "publishCode": "007258",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "853",
+    "fubkCode": "007",
+    "bkName": "电子竞技",
+    "publishCode": "007257",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "852",
+    "fubkCode": "007",
+    "bkName": "冷链物流",
+    "publishCode": "007256",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "851",
+    "fubkCode": "007",
+    "bkName": "纾困概念",
+    "publishCode": "007255",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "850",
+    "fubkCode": "007",
+    "bkName": "进口博览",
+    "publishCode": "007254",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "849",
+    "fubkCode": "007",
+    "bkName": "京东金融",
+    "publishCode": "007253",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "847",
+    "fubkCode": "007",
+    "bkName": "影视概念",
+    "publishCode": "007251",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "845",
+    "fubkCode": "007",
+    "bkName": "百度概念",
+    "publishCode": "007249",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "843",
+    "fubkCode": "007",
+    "bkName": "天然气",
+    "publishCode": "007248",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "842",
+    "fubkCode": "007",
+    "bkName": "富士康",
+    "publishCode": "007247",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "841",
+    "fubkCode": "007",
+    "bkName": "体外诊断",
+    "publishCode": "007246",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "839",
+    "fubkCode": "007",
+    "bkName": "知识产权",
+    "publishCode": "007245",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "838",
+    "fubkCode": "007",
+    "bkName": "东北振兴",
+    "publishCode": "007244",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "837",
+    "fubkCode": "007",
+    "bkName": "互联医疗",
+    "publishCode": "007243",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "835",
+    "fubkCode": "007",
+    "bkName": "独角兽",
+    "publishCode": "007241",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "834",
+    "fubkCode": "007",
+    "bkName": "乡村振兴",
+    "publishCode": "007240",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "833",
+    "fubkCode": "007",
+    "bkName": "小米概念",
+    "publishCode": "007239",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "832",
+    "fubkCode": "007",
+    "bkName": "工业互联",
+    "publishCode": "007238",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "831",
+    "fubkCode": "007",
+    "bkName": "万达概念",
+    "publishCode": "007237",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "825",
+    "fubkCode": "007",
+    "bkName": "新零售",
+    "publishCode": "007236",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "709",
+    "fubkCode": "007",
+    "bkName": "赛马概念",
+    "publishCode": "007178",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "823",
+    "fubkCode": "007",
+    "bkName": "养老金",
+    "publishCode": "007234",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "822",
+    "fubkCode": "007",
+    "bkName": "租售同权",
+    "publishCode": "007233",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "821",
+    "fubkCode": "007",
+    "bkName": "MSCI中国",
+    "publishCode": "007230",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "818",
+    "fubkCode": "007",
+    "bkName": "可燃冰",
+    "publishCode": "007228",
+    "firstLetter": "K"
+  },
+  {
+    "bkCode": "817",
+    "fubkCode": "007",
+    "bkName": "昨日触板",
+    "publishCode": "007227",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "816",
+    "fubkCode": "007",
+    "bkName": "昨日连板",
+    "publishCode": "007226",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "815",
+    "fubkCode": "007",
+    "bkName": "昨日涨停",
+    "publishCode": "007225",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "814",
+    "fubkCode": "007",
+    "bkName": "大飞机",
+    "publishCode": "007224",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "813",
+    "fubkCode": "007",
+    "bkName": "雄安新区",
+    "publishCode": "007223",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "812",
+    "fubkCode": "007",
+    "bkName": "贬值受益",
+    "publishCode": "007222",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "811",
+    "fubkCode": "007",
+    "bkName": "超级品牌",
+    "publishCode": "007221",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "808",
+    "fubkCode": "007",
+    "bkName": "军民融合",
+    "publishCode": "007220",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "807",
+    "fubkCode": "007",
+    "bkName": "共享经济",
+    "publishCode": "007219",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "806",
+    "fubkCode": "007",
+    "bkName": "精准医疗",
+    "publishCode": "007218",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "805",
+    "fubkCode": "007",
+    "bkName": "钛白粉",
+    "publishCode": "007217",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "804",
+    "fubkCode": "007",
+    "bkName": "深股通",
+    "publishCode": "007216",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "617",
+    "fubkCode": "007",
+    "bkName": "石墨烯",
+    "publishCode": "007096",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "615",
+    "fubkCode": "007",
+    "bkName": "中药",
+    "publishCode": "007094",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "614",
+    "fubkCode": "007",
+    "bkName": "食品安全",
+    "publishCode": "007093",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "612",
+    "fubkCode": "007",
+    "bkName": "上证180_",
+    "publishCode": "007091",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "611",
+    "fubkCode": "007",
+    "bkName": "上证50_",
+    "publishCode": "007090",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "610",
+    "fubkCode": "007",
+    "bkName": "央视50_",
+    "publishCode": "007089",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "606",
+    "fubkCode": "007",
+    "bkName": "油气设服",
+    "publishCode": "007085",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "604",
+    "fubkCode": "007",
+    "bkName": "参股保险",
+    "publishCode": "007083",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "603",
+    "fubkCode": "007",
+    "bkName": "页岩气",
+    "publishCode": "007082",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "601",
+    "fubkCode": "007",
+    "bkName": "海工装备",
+    "publishCode": "007080",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "600",
+    "fubkCode": "007",
+    "bkName": "新三板",
+    "publishCode": "007079",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "597",
+    "fubkCode": "007",
+    "bkName": "水利建设",
+    "publishCode": "007077",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "596",
+    "fubkCode": "007",
+    "bkName": "融资融券",
+    "publishCode": "007076",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "595",
+    "fubkCode": "007",
+    "bkName": "风能",
+    "publishCode": "007075",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "594",
+    "fubkCode": "007",
+    "bkName": "长江三角",
+    "publishCode": "007074",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "592",
+    "fubkCode": "007",
+    "bkName": "铁路基建",
+    "publishCode": "007072",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "588",
+    "fubkCode": "007",
+    "bkName": "太阳能",
+    "publishCode": "007068",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "581",
+    "fubkCode": "007",
+    "bkName": "智能电网",
+    "publishCode": "007062",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "580",
+    "fubkCode": "007",
+    "bkName": "LED",
+    "publishCode": "007061",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "579",
+    "fubkCode": "007",
+    "bkName": "云计算",
+    "publishCode": "007060",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "578",
+    "fubkCode": "007",
+    "bkName": "稀土永磁",
+    "publishCode": "007059",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "577",
+    "fubkCode": "007",
+    "bkName": "核能核电",
+    "publishCode": "007058",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "574",
+    "fubkCode": "007",
+    "bkName": "锂电池",
+    "publishCode": "007057",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "571",
+    "fubkCode": "007",
+    "bkName": "预盈预增",
+    "publishCode": "007054",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "570",
+    "fubkCode": "007",
+    "bkName": "预亏预减",
+    "publishCode": "007053",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "568",
+    "fubkCode": "007",
+    "bkName": "深成500",
+    "publishCode": "007051",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "567",
+    "fubkCode": "007",
+    "bkName": "股权激励",
+    "publishCode": "007050",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "566",
+    "fubkCode": "007",
+    "bkName": "滨海新区",
+    "publishCode": "007049",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "563",
+    "fubkCode": "007",
+    "bkName": "油价相关",
+    "publishCode": "007048",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "561",
+    "fubkCode": "007",
+    "bkName": "基本金属",
+    "publishCode": "007047",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "556",
+    "fubkCode": "007",
+    "bkName": "移动支付",
+    "publishCode": "007046",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "554",
+    "fubkCode": "007",
+    "bkName": "物联网",
+    "publishCode": "007045",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "552",
+    "fubkCode": "007",
+    "bkName": "机构重仓",
+    "publishCode": "007043",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "549",
+    "fubkCode": "007",
+    "bkName": "深圳特区",
+    "publishCode": "007040",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "548",
+    "fubkCode": "007",
+    "bkName": "生物疫苗",
+    "publishCode": "007039",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "547",
+    "fubkCode": "007",
+    "bkName": "黄金概念",
+    "publishCode": "007038",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "536",
+    "fubkCode": "007",
+    "bkName": "基金重仓",
+    "publishCode": "007035",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "535",
+    "fubkCode": "007",
+    "bkName": "QFII重仓",
+    "publishCode": "007034",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "534",
+    "fubkCode": "007",
+    "bkName": "成渝特区",
+    "publishCode": "007033",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "528",
+    "fubkCode": "007",
+    "bkName": "转债标的",
+    "publishCode": "007032",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "525",
+    "fubkCode": "007",
+    "bkName": "参股银行",
+    "publishCode": "007030",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "524",
+    "fubkCode": "007",
+    "bkName": "参股期货",
+    "publishCode": "007029",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "523",
+    "fubkCode": "007",
+    "bkName": "新材料",
+    "publishCode": "007028",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "520",
+    "fubkCode": "007",
+    "bkName": "社保重仓",
+    "publishCode": "007025",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "519",
+    "fubkCode": "007",
+    "bkName": "稀缺资源",
+    "publishCode": "007024",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "511",
+    "fubkCode": "007",
+    "bkName": "ST概念",
+    "publishCode": "007019",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "509",
+    "fubkCode": "007",
+    "bkName": "网络游戏",
+    "publishCode": "007017",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "506",
+    "fubkCode": "007",
+    "bkName": "创投",
+    "publishCode": "007014",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "505",
+    "fubkCode": "007",
+    "bkName": "中字头",
+    "publishCode": "007013",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "501",
+    "fubkCode": "007",
+    "bkName": "次新股",
+    "publishCode": "007010",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "500",
+    "fubkCode": "007",
+    "bkName": "HS300_",
+    "publishCode": "007009",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "499",
+    "fubkCode": "007",
+    "bkName": "AH股",
+    "publishCode": "007008",
+    "firstLetter": "A"
+  },
+  {
+    "bkCode": "498",
+    "fubkCode": "007",
+    "bkName": "AB股",
+    "publishCode": "007007",
+    "firstLetter": "A"
+  },
+  {
+    "bkCode": "494",
+    "fubkCode": "007",
+    "bkName": "节能环保",
+    "publishCode": "007005",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "493",
+    "fubkCode": "007",
+    "bkName": "新能源",
+    "publishCode": "007004",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "492",
+    "fubkCode": "007",
+    "bkName": "煤化工",
+    "publishCode": "007003",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "490",
+    "fubkCode": "007",
+    "bkName": "军工",
+    "publishCode": "007001",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "803",
+    "fubkCode": "007",
+    "bkName": "股权转让",
+    "publishCode": "007215",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "990",
+    "fubkCode": "007",
+    "bkName": "快递概念",
+    "publishCode": "007214",
+    "firstLetter": "K"
+  },
+  {
+    "bkCode": "980",
+    "fubkCode": "007",
+    "bkName": "债转股",
+    "publishCode": "007213",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "970",
+    "fubkCode": "007",
+    "bkName": "生物识别",
+    "publishCode": "007212",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "960",
+    "fubkCode": "007",
+    "bkName": "无线充电",
+    "publishCode": "007211",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "950",
+    "fubkCode": "007",
+    "bkName": "草甘膦",
+    "publishCode": "007210",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "940",
+    "fubkCode": "007",
+    "bkName": "网红直播",
+    "publishCode": "007209",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "920",
+    "fubkCode": "007",
+    "bkName": "车联网",
+    "publishCode": "007207",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "900",
+    "fubkCode": "007",
+    "bkName": "新能源车",
+    "publishCode": "007206",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "891",
+    "fubkCode": "007",
+    "bkName": "国产芯片",
+    "publishCode": "007205",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "882",
+    "fubkCode": "007",
+    "bkName": "猪肉概念",
+    "publishCode": "007204",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "881",
+    "fubkCode": "007",
+    "bkName": "3D玻璃",
+    "publishCode": "007203",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "870",
+    "fubkCode": "007",
+    "bkName": "单抗概念",
+    "publishCode": "007202",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "840",
+    "fubkCode": "007",
+    "bkName": "OLED",
+    "publishCode": "007201",
+    "firstLetter": "O"
+  },
+  {
+    "bkCode": "830",
+    "fubkCode": "007",
+    "bkName": "区块链",
+    "publishCode": "007200",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "820",
+    "fubkCode": "007",
+    "bkName": "壳资源",
+    "publishCode": "007199",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "810",
+    "fubkCode": "007",
+    "bkName": "工业4.0",
+    "publishCode": "007198",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "802",
+    "fubkCode": "007",
+    "bkName": "无人驾驶",
+    "publishCode": "007197",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "801",
+    "fubkCode": "007",
+    "bkName": "增强现实",
+    "publishCode": "007196",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "800",
+    "fubkCode": "007",
+    "bkName": "人工智能",
+    "publishCode": "007195",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "724",
+    "fubkCode": "007",
+    "bkName": "海绵城市",
+    "publishCode": "007193",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "723",
+    "fubkCode": "007",
+    "bkName": "高送转",
+    "publishCode": "007192",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "722",
+    "fubkCode": "007",
+    "bkName": "虚拟现实",
+    "publishCode": "007191",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "721",
+    "fubkCode": "007",
+    "bkName": "PPP模式",
+    "publishCode": "007190",
+    "firstLetter": "P"
+  },
+  {
+    "bkCode": "719",
+    "fubkCode": "007",
+    "bkName": "健康中国",
+    "publishCode": "007188",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "718",
+    "fubkCode": "007",
+    "bkName": "证金持股",
+    "publishCode": "007187",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "717",
+    "fubkCode": "007",
+    "bkName": "北京冬奥",
+    "publishCode": "007186",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "715",
+    "fubkCode": "007",
+    "bkName": "航母概念",
+    "publishCode": "007184",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "714",
+    "fubkCode": "007",
+    "bkName": "5G概念",
+    "publishCode": "007183",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "713",
+    "fubkCode": "007",
+    "bkName": "2025规划",
+    "publishCode": "007182",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "712",
+    "fubkCode": "007",
+    "bkName": "一带一路",
+    "publishCode": "007181",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "711",
+    "fubkCode": "007",
+    "bkName": "券商概念",
+    "publishCode": "007180",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "710",
+    "fubkCode": "007",
+    "bkName": "量子通信",
+    "publishCode": "007179",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "708",
+    "fubkCode": "007",
+    "bkName": "体育产业",
+    "publishCode": "007177",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "707",
+    "fubkCode": "007",
+    "bkName": "沪股通",
+    "publishCode": "007176",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "706",
+    "fubkCode": "007",
+    "bkName": "人脑工程",
+    "publishCode": "007175",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "705",
+    "fubkCode": "007",
+    "bkName": "上证380",
+    "publishCode": "007174",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "704",
+    "fubkCode": "007",
+    "bkName": "无人机",
+    "publishCode": "007173",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "703",
+    "fubkCode": "007",
+    "bkName": "超级电容",
+    "publishCode": "007172",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "701",
+    "fubkCode": "007",
+    "bkName": "中证500",
+    "publishCode": "007170",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "625",
+    "fubkCode": "007",
+    "bkName": "通用航空",
+    "publishCode": "007102",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "623",
+    "fubkCode": "007",
+    "bkName": "海洋经济",
+    "publishCode": "007100",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "622",
+    "fubkCode": "007",
+    "bkName": "地热能",
+    "publishCode": "007099",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "514",
+    "fubkCode": "007",
+    "bkName": "参股券商",
+    "publishCode": "007022",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "512",
+    "fubkCode": "007",
+    "bkName": "化工原料",
+    "publishCode": "007020",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "700",
+    "fubkCode": "007",
+    "bkName": "充电桩",
+    "publishCode": "007169",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "699",
+    "fubkCode": "007",
+    "bkName": "全息技术",
+    "publishCode": "007168",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "698",
+    "fubkCode": "007",
+    "bkName": "免疫治疗",
+    "publishCode": "007167",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "697",
+    "fubkCode": "007",
+    "bkName": "IPO受益",
+    "publishCode": "007166",
+    "firstLetter": "I"
+  },
+  {
+    "bkCode": "696",
+    "fubkCode": "007",
+    "bkName": "国产软件",
+    "publishCode": "007165",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "695",
+    "fubkCode": "007",
+    "bkName": "小金属",
+    "publishCode": "007164",
+    "firstLetter": "X"
+  },
+  {
+    "bkCode": "693",
+    "fubkCode": "007",
+    "bkName": "基因测序",
+    "publishCode": "007162",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "692",
+    "fubkCode": "007",
+    "bkName": "在线旅游",
+    "publishCode": "007161",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "690",
+    "fubkCode": "007",
+    "bkName": "氟化工",
+    "publishCode": "007160",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "689",
+    "fubkCode": "007",
+    "bkName": "阿里概念",
+    "publishCode": "007159",
+    "firstLetter": "A"
+  },
+  {
+    "bkCode": "685",
+    "fubkCode": "007",
+    "bkName": "举牌概念",
+    "publishCode": "007155",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "684",
+    "fubkCode": "007",
+    "bkName": "京津冀",
+    "publishCode": "007154",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "683",
+    "fubkCode": "007",
+    "bkName": "国企改革",
+    "publishCode": "007153",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "682",
+    "fubkCode": "007",
+    "bkName": "燃料电池",
+    "publishCode": "007152",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "680",
+    "fubkCode": "007",
+    "bkName": "智能家居",
+    "publishCode": "007150",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "679",
+    "fubkCode": "007",
+    "bkName": "超导概念",
+    "publishCode": "007149",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "677",
+    "fubkCode": "007",
+    "bkName": "粤港自贸",
+    "publishCode": "007148",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "676",
+    "fubkCode": "007",
+    "bkName": "独家药品",
+    "publishCode": "007147",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "675",
+    "fubkCode": "007",
+    "bkName": "病毒防治",
+    "publishCode": "007146",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "674",
+    "fubkCode": "007",
+    "bkName": "蓝宝石",
+    "publishCode": "007145",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "672",
+    "fubkCode": "007",
+    "bkName": "沪企改革",
+    "publishCode": "007143",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "671",
+    "fubkCode": "007",
+    "bkName": "彩票概念",
+    "publishCode": "007142",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "669",
+    "fubkCode": "007",
+    "bkName": "生态农业",
+    "publishCode": "007140",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "668",
+    "fubkCode": "007",
+    "bkName": "医疗器械",
+    "publishCode": "007139",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "667",
+    "fubkCode": "007",
+    "bkName": "国家安防",
+    "publishCode": "007138",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "665",
+    "fubkCode": "007",
+    "bkName": "电商概念",
+    "publishCode": "007137",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "666",
+    "fubkCode": "007",
+    "bkName": "苹果概念",
+    "publishCode": "007136",
+    "firstLetter": "P"
+  },
+  {
+    "bkCode": "664",
+    "fubkCode": "007",
+    "bkName": "二胎概念",
+    "publishCode": "007133",
+    "firstLetter": "E"
+  },
+  {
+    "bkCode": "662",
+    "fubkCode": "007",
+    "bkName": "在线教育",
+    "publishCode": "007131",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "656",
+    "fubkCode": "007",
+    "bkName": "智能电视",
+    "publishCode": "007125",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "655",
+    "fubkCode": "007",
+    "bkName": "网络安全",
+    "publishCode": "007124",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "653",
+    "fubkCode": "007",
+    "bkName": "养老概念",
+    "publishCode": "007122",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "644",
+    "fubkCode": "007",
+    "bkName": "特斯拉",
+    "publishCode": "007120",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "643",
+    "fubkCode": "007",
+    "bkName": "上海自贸",
+    "publishCode": "007119",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "642",
+    "fubkCode": "007",
+    "bkName": "手游概念",
+    "publishCode": "007118",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "641",
+    "fubkCode": "007",
+    "bkName": "智能穿戴",
+    "publishCode": "007117",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "640",
+    "fubkCode": "007",
+    "bkName": "智能机器",
+    "publishCode": "007116",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "638",
+    "fubkCode": "007",
+    "bkName": "创业成份",
+    "publishCode": "007114",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "637",
+    "fubkCode": "007",
+    "bkName": "互联金融",
+    "publishCode": "007113",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "636",
+    "fubkCode": "007",
+    "bkName": "B股",
+    "publishCode": "007112",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "635",
+    "fubkCode": "007",
+    "bkName": "中超概念",
+    "publishCode": "007111",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "634",
+    "fubkCode": "007",
+    "bkName": "大数据",
+    "publishCode": "007110",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "633",
+    "fubkCode": "007",
+    "bkName": "送转预期",
+    "publishCode": "007109",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "632",
+    "fubkCode": "007",
+    "bkName": "土地流转",
+    "publishCode": "007108",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "629",
+    "fubkCode": "007",
+    "bkName": "北斗导航",
+    "publishCode": "007105",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "628",
+    "fubkCode": "007",
+    "bkName": "智慧城市",
+    "publishCode": "007104",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "619",
+    "fubkCode": "007",
+    "bkName": "3D打印",
+    "publishCode": "007098",
+    "firstLetter": "D"
+  }
+]

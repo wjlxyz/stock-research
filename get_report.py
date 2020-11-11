@@ -2,24 +2,23 @@ import requests
 import json
 from datetime import datetime
 
-all_trades = []
 
-
-def get_trades_info():
+def get_all_bk_code():
     today = datetime.now().timestamp()
     url = 'http://reportapi.eastmoney.com/report/bk?bkCode=016&_=' + str(today)
     resp = requests.get(url).text
     data = json.loads(resp)
-    all_trades = data['data']
-    print(all_trades)
+    all_bk_info = data['data']
+    print(all_bk_info)
+    return all_bk_info
 
 
-def get_single_trades_info(industry_code):
+def get_single_trades_info(bk_code='737'):
     today = datetime.now().timestamp()
     from_date = '2019-12-01'
     end_date = datetime.now().strftime('%Y-%m-%d')
     url = 'http://reportapi.eastmoney.com/report/list' \
-          '?industryCode=' + str(industry_code) \
+          '?industryCode=' + str(bk_code) \
           + '&pageSize=50' \
             '&industry=' \
             '&rating=' \
@@ -28,10 +27,10 @@ def get_single_trades_info(industry_code):
           + '&endTime=' + end_date \
           + '&pageNo=1' \
             '&fields=&' \
-            'qType=0' \
+            'qType=3' \
             '&orgCode=' \
             '&rcode=&_=' + str(today)
-    # qType: 必填，0标识查询个股研报，1标识行业研报
+    # qType: 必填，0标识查询个股研报，1标识行业研报，3 标识宏观研究报告
     resp = requests.get(url).text
     data = json.loads(resp)['data']
     print(data)
@@ -48,7 +47,9 @@ def get_single_report(report_info):
 
 
 if __name__ == '__main__':
-    get_trades_info()
-    single_trades_infos = get_single_trades_info(737)
-    for info in single_trades_infos:
-        get_single_report(info)
+    all_bk_info = get_all_bk_code()
+    for e in all_bk_info:
+        print(e)
+        single_trades_infos = get_single_trades_info()
+        for info in single_trades_infos:
+            get_single_report(info)

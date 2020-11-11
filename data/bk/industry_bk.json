@@ -1,0 +1,429 @@
+[
+  {
+    "bkCode": "546",
+    "fubkCode": "016",
+    "bkName": "玻璃陶瓷",
+    "publishCode": "016044",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "545",
+    "fubkCode": "016",
+    "bkName": "机械行业",
+    "publishCode": "016043",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "539",
+    "fubkCode": "016",
+    "bkName": "综合行业",
+    "publishCode": "016042",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "538",
+    "fubkCode": "016",
+    "bkName": "化工行业",
+    "publishCode": "016041",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "537",
+    "fubkCode": "016",
+    "bkName": "材料行业",
+    "publishCode": "016040",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "486",
+    "fubkCode": "016",
+    "bkName": "文化传媒",
+    "publishCode": "016039",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "485",
+    "fubkCode": "016",
+    "bkName": "旅游酒店",
+    "publishCode": "016038",
+    "firstLetter": "L"
+  },
+  {
+    "bkCode": "484",
+    "fubkCode": "016",
+    "bkName": "国际贸易",
+    "publishCode": "016037",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "482",
+    "fubkCode": "016",
+    "bkName": "商业百货",
+    "publishCode": "016036",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "481",
+    "fubkCode": "016",
+    "bkName": "汽车行业",
+    "publishCode": "016035",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "480",
+    "fubkCode": "016",
+    "bkName": "航天航空",
+    "publishCode": "016034",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "479",
+    "fubkCode": "016",
+    "bkName": "钢铁行业",
+    "publishCode": "016033",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "478",
+    "fubkCode": "016",
+    "bkName": "有色金属",
+    "publishCode": "016032",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "477",
+    "fubkCode": "016",
+    "bkName": "酿酒行业",
+    "publishCode": "016031",
+    "firstLetter": "N"
+  },
+  {
+    "bkCode": "476",
+    "fubkCode": "016",
+    "bkName": "木业家具",
+    "publishCode": "016030",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "475",
+    "fubkCode": "016",
+    "bkName": "银行",
+    "publishCode": "016029",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "474",
+    "fubkCode": "016",
+    "bkName": "保险",
+    "publishCode": "016028",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "473",
+    "fubkCode": "016",
+    "bkName": "券商信托",
+    "publishCode": "016027",
+    "firstLetter": "Q"
+  },
+  {
+    "bkCode": "471",
+    "fubkCode": "016",
+    "bkName": "化纤行业",
+    "publishCode": "016026",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "470",
+    "fubkCode": "016",
+    "bkName": "造纸印刷",
+    "publishCode": "016025",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "465",
+    "fubkCode": "016",
+    "bkName": "医药制造",
+    "publishCode": "016024",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "464",
+    "fubkCode": "016",
+    "bkName": "石油行业",
+    "publishCode": "016023",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "459",
+    "fubkCode": "016",
+    "bkName": "电子元件",
+    "publishCode": "016022",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "458",
+    "fubkCode": "016",
+    "bkName": "仪器仪表",
+    "publishCode": "016021",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "457",
+    "fubkCode": "016",
+    "bkName": "输配电气",
+    "publishCode": "016020",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "456",
+    "fubkCode": "016",
+    "bkName": "家电行业",
+    "publishCode": "016019",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "454",
+    "fubkCode": "016",
+    "bkName": "塑胶制品",
+    "publishCode": "016018",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "451",
+    "fubkCode": "016",
+    "bkName": "房地产",
+    "publishCode": "016017",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "450",
+    "fubkCode": "016",
+    "bkName": "港口水运",
+    "publishCode": "016016",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "448",
+    "fubkCode": "016",
+    "bkName": "通讯行业",
+    "publishCode": "016015",
+    "firstLetter": "T"
+  },
+  {
+    "bkCode": "447",
+    "fubkCode": "016",
+    "bkName": "电子信息",
+    "publishCode": "016014",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "440",
+    "fubkCode": "016",
+    "bkName": "工艺商品",
+    "publishCode": "016013",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "438",
+    "fubkCode": "016",
+    "bkName": "食品饮料",
+    "publishCode": "016012",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "437",
+    "fubkCode": "016",
+    "bkName": "煤炭采选",
+    "publishCode": "016011",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "436",
+    "fubkCode": "016",
+    "bkName": "纺织服装",
+    "publishCode": "016010",
+    "firstLetter": "F"
+  },
+  {
+    "bkCode": "433",
+    "fubkCode": "016",
+    "bkName": "农牧饲渔",
+    "publishCode": "016009",
+    "firstLetter": "N"
+  },
+  {
+    "bkCode": "429",
+    "fubkCode": "016",
+    "bkName": "交运设备",
+    "publishCode": "016008",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "428",
+    "fubkCode": "016",
+    "bkName": "电力行业",
+    "publishCode": "016007",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "427",
+    "fubkCode": "016",
+    "bkName": "公用事业",
+    "publishCode": "016006",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "425",
+    "fubkCode": "016",
+    "bkName": "工程建设",
+    "publishCode": "016005",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "424",
+    "fubkCode": "016",
+    "bkName": "水泥建材",
+    "publishCode": "016004",
+    "firstLetter": "S"
+  },
+  {
+    "bkCode": "422",
+    "fubkCode": "016",
+    "bkName": "交运物流",
+    "publishCode": "016003",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "421",
+    "fubkCode": "016",
+    "bkName": "高速公路",
+    "publishCode": "016002",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "420",
+    "fubkCode": "016",
+    "bkName": "民航机场",
+    "publishCode": "016001",
+    "firstLetter": "M"
+  },
+  {
+    "bkCode": "910",
+    "fubkCode": "016",
+    "bkName": "专用设备",
+    "publishCode": "016061",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "740",
+    "fubkCode": "016",
+    "bkName": "文教休闲",
+    "publishCode": "016060",
+    "firstLetter": "W"
+  },
+  {
+    "bkCode": "739",
+    "fubkCode": "016",
+    "bkName": "金属制品",
+    "publishCode": "016059",
+    "firstLetter": "J"
+  },
+  {
+    "bkCode": "738",
+    "fubkCode": "016",
+    "bkName": "多元金融",
+    "publishCode": "016058",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "737",
+    "fubkCode": "016",
+    "bkName": "软件服务",
+    "publishCode": "016057",
+    "firstLetter": "R"
+  },
+  {
+    "bkCode": "736",
+    "fubkCode": "016",
+    "bkName": "电信运营",
+    "publishCode": "016056",
+    "firstLetter": "D"
+  },
+  {
+    "bkCode": "735",
+    "fubkCode": "016",
+    "bkName": "安防设备",
+    "publishCode": "016055",
+    "firstLetter": "A"
+  },
+  {
+    "bkCode": "734",
+    "fubkCode": "016",
+    "bkName": "珠宝首饰",
+    "publishCode": "016054",
+    "firstLetter": "Z"
+  },
+  {
+    "bkCode": "733",
+    "fubkCode": "016",
+    "bkName": "包装材料",
+    "publishCode": "016053",
+    "firstLetter": "B"
+  },
+  {
+    "bkCode": "732",
+    "fubkCode": "016",
+    "bkName": "贵金属",
+    "publishCode": "016052",
+    "firstLetter": "G"
+  },
+  {
+    "bkCode": "731",
+    "fubkCode": "016",
+    "bkName": "化肥行业",
+    "publishCode": "016051",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "730",
+    "fubkCode": "016",
+    "bkName": "农药兽药",
+    "publishCode": "016050",
+    "firstLetter": "N"
+  },
+  {
+    "bkCode": "729",
+    "fubkCode": "016",
+    "bkName": "船舶制造",
+    "publishCode": "016049",
+    "firstLetter": "C"
+  },
+  {
+    "bkCode": "728",
+    "fubkCode": "016",
+    "bkName": "环保工程",
+    "publishCode": "016048",
+    "firstLetter": "H"
+  },
+  {
+    "bkCode": "727",
+    "fubkCode": "016",
+    "bkName": "医疗行业",
+    "publishCode": "016047",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "726",
+    "fubkCode": "016",
+    "bkName": "园林工程",
+    "publishCode": "016046",
+    "firstLetter": "Y"
+  },
+  {
+    "bkCode": "725",
+    "fubkCode": "016",
+    "bkName": "装修装饰",
+    "publishCode": "016045",
+    "firstLetter": "Z"
+  }
+]

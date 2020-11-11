@@ -1,0 +1,219 @@
+[
+  {
+    "bkCode": "778003" ,
+    "fubkCode": "020" ,
+    "bkName": "湖南板块" ,
+    "publishCode": "020013" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "778002" ,
+    "fubkCode": "020" ,
+    "bkName": "湖北板块" ,
+    "publishCode": "020012" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "778001" ,
+    "fubkCode": "020" ,
+    "bkName": "河南板块" ,
+    "publishCode": "020010" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "772001" ,
+    "fubkCode": "020" ,
+    "bkName": "重庆板块" ,
+    "publishCode": "020031" ,
+    "firstLetter": "C"
+  } ,
+  {
+    "bkCode": "776003" ,
+    "fubkCode": "020" ,
+    "bkName": "浙江板块" ,
+    "publishCode": "020030" ,
+    "firstLetter": "Z"
+  } ,
+  {
+    "bkCode": "772004" ,
+    "fubkCode": "020" ,
+    "bkName": "云南板块" ,
+    "publishCode": "020029" ,
+    "firstLetter": "Y"
+  } ,
+  {
+    "bkCode": "773005" ,
+    "fubkCode": "020" ,
+    "bkName": "新疆板块" ,
+    "publishCode": "020028" ,
+    "firstLetter": "X"
+  } ,
+  {
+    "bkCode": "772005" ,
+    "fubkCode": "020" ,
+    "bkName": "西藏板块" ,
+    "publishCode": "020027" ,
+    "firstLetter": "X"
+  } ,
+  {
+    "bkCode": "199002" ,
+    "fubkCode": "020" ,
+    "bkName": "天津板块" ,
+    "publishCode": "020026" ,
+    "firstLetter": "T"
+  } ,
+  {
+    "bkCode": "772002" ,
+    "fubkCode": "020" ,
+    "bkName": "四川板块" ,
+    "publishCode": "020025" ,
+    "firstLetter": "S"
+  } ,
+  {
+    "bkCode": "776001" ,
+    "fubkCode": "020" ,
+    "bkName": "上海板块" ,
+    "publishCode": "020024" ,
+    "firstLetter": "S"
+  } ,
+  {
+    "bkCode": "773001" ,
+    "fubkCode": "020" ,
+    "bkName": "陕西板块" ,
+    "publishCode": "020023" ,
+    "firstLetter": "S"
+  } ,
+  {
+    "bkCode": "199004" ,
+    "fubkCode": "020" ,
+    "bkName": "山西板块" ,
+    "publishCode": "020022" ,
+    "firstLetter": "S"
+  } ,
+  {
+    "bkCode": "776007" ,
+    "fubkCode": "020" ,
+    "bkName": "山东板块" ,
+    "publishCode": "020021" ,
+    "firstLetter": "S"
+  } ,
+  {
+    "bkCode": "773003" ,
+    "fubkCode": "020" ,
+    "bkName": "青海板块" ,
+    "publishCode": "020020" ,
+    "firstLetter": "Q"
+  } ,
+  {
+    "bkCode": "773004" ,
+    "fubkCode": "020" ,
+    "bkName": "宁夏板块" ,
+    "publishCode": "020019" ,
+    "firstLetter": "N"
+  } ,
+  {
+    "bkCode": "199005" ,
+    "fubkCode": "020" ,
+    "bkName": "内蒙古" ,
+    "publishCode": "020018" ,
+    "firstLetter": "N"
+  } ,
+  {
+    "bkCode": "775001" ,
+    "fubkCode": "020" ,
+    "bkName": "辽宁板块" ,
+    "publishCode": "020017" ,
+    "firstLetter": "L"
+  } ,
+  {
+    "bkCode": "776006" ,
+    "fubkCode": "020" ,
+    "bkName": "江西板块" ,
+    "publishCode": "020016" ,
+    "firstLetter": "J"
+  } ,
+  {
+    "bkCode": "776002" ,
+    "fubkCode": "020" ,
+    "bkName": "江苏板块" ,
+    "publishCode": "020015" ,
+    "firstLetter": "J"
+  } ,
+  {
+    "bkCode": "775002" ,
+    "fubkCode": "020" ,
+    "bkName": "吉林板块" ,
+    "publishCode": "020014" ,
+    "firstLetter": "J"
+  } ,
+  {
+    "bkCode": "775003" ,
+    "fubkCode": "020" ,
+    "bkName": "黑龙江" ,
+    "publishCode": "020011" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "199003" ,
+    "fubkCode": "020" ,
+    "bkName": "河北板块" ,
+    "publishCode": "020009" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "777006" ,
+    "fubkCode": "020" ,
+    "bkName": "海南板块" ,
+    "publishCode": "020008" ,
+    "firstLetter": "H"
+  } ,
+  {
+    "bkCode": "772003" ,
+    "fubkCode": "020" ,
+    "bkName": "贵州板块" ,
+    "publishCode": "020007" ,
+    "firstLetter": "G"
+  } ,
+  {
+    "bkCode": "777005" ,
+    "fubkCode": "020" ,
+    "bkName": "广西板块" ,
+    "publishCode": "020006" ,
+    "firstLetter": "G"
+  } ,
+  {
+    "bkCode": "777004" ,
+    "fubkCode": "020" ,
+    "bkName": "广东板块" ,
+    "publishCode": "020005" ,
+    "firstLetter": "G"
+  } ,
+  {
+    "bkCode": "773002" ,
+    "fubkCode": "020" ,
+    "bkName": "甘肃板块" ,
+    "publishCode": "020004" ,
+    "firstLetter": "G"
+  } ,
+  {
+    "bkCode": "776005" ,
+    "fubkCode": "020" ,
+    "bkName": "福建板块" ,
+    "publishCode": "020003" ,
+    "firstLetter": "F"
+  } ,
+  {
+    "bkCode": "199001" ,
+    "fubkCode": "020" ,
+    "bkName": "北京板块" ,
+    "publishCode": "020002" ,
+    "firstLetter": "B"
+  } ,
+  {
+    "bkCode": "776004" ,
+    "fubkCode": "020" ,
+    "bkName": "安徽板块" ,
+    "publishCode": "020001" ,
+    "firstLetter": "A"
+  }
+]
