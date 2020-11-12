@@ -20,7 +20,7 @@ def get_industry_report_list(industry_id='457'):
     return data
 
 
-def get_report_by_encode_url(encode_url):
+def get_all_industry_report(encode_url):
     url = 'http://pdf.dfcfw.com/pdf/H3_' + encode_url + '_1.pdf'
     print(url)
 
