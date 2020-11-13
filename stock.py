@@ -5,7 +5,6 @@ import requests
 
 
 def get_sh_stock_list():
-    sh = []
     url = 'http://91.push2.eastmoney.com/api/qt/clist/get' \
           '?pn=1' \
           '&pz=10000' \
@@ -29,7 +28,6 @@ def get_sh_stock_list():
 
 
 def get_sz_stock_list():
-    sz = []
     url = 'http://91.push2.eastmoney.com/api/qt/clist/get' \
           '?pn=1' \
           '&pz=10000' \
