@@ -50,6 +50,16 @@ create table t_bk_region
 alter table t_bk_region
     add primary key (bk_code);
 
+create table t_report
+(
+    report_name varchar(256) not null,
+    report_url varchar(256) not null,
+    constraint t_report_report_name_uindex
+        unique (report_name),
+    constraint t_report_report_url_uindex
+        unique (report_url)
+);
+
 create table t_stock
 (
     stock_id varchar(8) not null,

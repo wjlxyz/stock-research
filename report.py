@@ -27,4 +27,3 @@ def get_all_industry_report(encode_url):
 
 if __name__ == '__main__':
     get_industry_report_list()
-    get_report_by_encode_url('mUzXAVsaIzRvBIwfwhxEdQY3ANf8iL1uBb9xqTdVtks=')
