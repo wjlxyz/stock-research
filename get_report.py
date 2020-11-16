@@ -2,6 +2,8 @@ import requests
 import json
 from datetime import datetime
 
+report_list = []
+
 
 def get_all_bk_code():
     today = datetime.now().timestamp()
@@ -15,7 +17,7 @@ def get_all_bk_code():
 
 def get_single_trades_info(bk_code='737'):
     today = datetime.now().timestamp()
-    from_date = '2019-12-01'
+    from_date = '2020-11-01'
     end_date = datetime.now().strftime('%Y-%m-%d')
     url = 'http://reportapi.eastmoney.com/report/list' \
           '?industryCode=' + str(bk_code) \
@@ -33,13 +35,15 @@ def get_single_trades_info(bk_code='737'):
     # qType: 必填，0标识查询个股研报，1标识行业研报，3 标识宏观研究报告
     resp = requests.get(url).text
     data = json.loads(resp)['data']
-    print(data)
+    # print(data)
     return data
 
 
 def get_single_report(report_info):
     url = 'http://pdf.dfcfw.com/pdf/H3_' + str(report_info['infoCode']) + '_1.pdf'
     print('%s: %s' % (report_info['title'], url))
+    report = {'title': report_info['title'], 'url': url}
+    report_list.append(report)
     # resp = requests.get(url=url, stream=True)
     # with open('./reports/' + report_info['title'] + '.pdf', 'wb') as file:
     #     for data in resp.iter_content():
@@ -49,7 +53,8 @@ def get_single_report(report_info):
 if __name__ == '__main__':
     all_bk_info = get_all_bk_code()
     for e in all_bk_info:
-        print(e)
-        single_trades_infos = get_single_trades_info()
+        # print(e)
+        single_trades_infos = get_single_trades_info(e['bkCode'])
         for info in single_trades_infos:
             get_single_report(info)
+    # print(report_list)
