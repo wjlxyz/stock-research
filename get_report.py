@@ -29,7 +29,7 @@ def get_single_trades_info(bk_code='737'):
           + '&endTime=' + end_date \
           + '&pageNo=1' \
             '&fields=&' \
-            'qType=1' \
+            'qType=0' \
             '&orgCode=' \
             '&rcode=&_=' + str(today)
     # qType: 必填，0标识查询个股研报，1标识行业研报，3 标识宏观研究报告
