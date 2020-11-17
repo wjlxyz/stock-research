@@ -11,13 +11,13 @@ def get_all_bk_code():
     resp = requests.get(url).text
     data = json.loads(resp)
     all_bk_info = data['data']
-    print(all_bk_info)
+    # print(all_bk_info)
     return all_bk_info
 
 
 def get_single_trades_info(bk_code='737'):
     today = datetime.now().timestamp()
-    from_date = '2020-11-01'
+    from_date = '2020-11-10'
     end_date = datetime.now().strftime('%Y-%m-%d')
     url = 'http://reportapi.eastmoney.com/report/list' \
           '?industryCode=' + str(bk_code) \
@@ -31,7 +31,8 @@ def get_single_trades_info(bk_code='737'):
             '&fields=&' \
             'qType=0' \
             '&orgCode=' \
-            '&rcode=&_=' + str(today)
+            '&rcode=' \
+            '&_=' + str(today)
     # qType: 必填，0标识查询个股研报，1标识行业研报，3 标识宏观研究报告
     resp = requests.get(url).text
     data = json.loads(resp)['data']
@@ -41,9 +42,10 @@ def get_single_trades_info(bk_code='737'):
 
 def get_single_report(report_info):
     url = 'http://pdf.dfcfw.com/pdf/H3_' + str(report_info['infoCode']) + '_1.pdf'
-    print('%s: %s' % (report_info['title'], url))
-    report = {'title': report_info['title'], 'url': url}
+    report = {'股票名称': report_info['stockName'], '券商': report_info['orgName'], 'title': report_info['title'],
+              'url': url}
     report_list.append(report)
+    print(report)
     # resp = requests.get(url=url, stream=True)
     # with open('./reports/' + report_info['title'] + '.pdf', 'wb') as file:
     #     for data in resp.iter_content():
@@ -56,5 +58,6 @@ if __name__ == '__main__':
         # print(e)
         single_trades_infos = get_single_trades_info(e['bkCode'])
         for info in single_trades_infos:
+            # print(info)
             get_single_report(info)
     # print(report_list)

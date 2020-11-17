@@ -45,7 +45,7 @@ def get_single_report(report_info):
     print('%s: %s' % (report_info['title'], url))
     report = {'title': report_info['title'], 'url': url}
     report_list.append(report)
-    with open('data/reports/reports.txt', 'a') as file:
+    with open('data/reports/reports.json', 'a') as file:
         file.write('{' + 'title' + report_info['title'] + '; url:' + url + '}\n')
 
 
