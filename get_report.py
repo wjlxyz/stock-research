@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-report_list = []
+report_list = {}
 
 
 def get_all_bk_code():
@@ -15,9 +15,8 @@ def get_all_bk_code():
     return all_bk_info
 
 
-def get_single_trades_info(bk_code='737'):
+def get_single_trades_info(bk_code='737', from_date='2020-11-01'):
     today = datetime.now().timestamp()
-    from_date = '2020-11-10'
     end_date = datetime.now().strftime('%Y-%m-%d')
     url = 'http://reportapi.eastmoney.com/report/list' \
           '?industryCode=' + str(bk_code) \
@@ -44,20 +43,33 @@ def get_single_report(report_info):
     url = 'http://pdf.dfcfw.com/pdf/H3_' + str(report_info['infoCode']) + '_1.pdf'
     report = {'股票名称': report_info['stockName'], '券商': report_info['orgName'], 'title': report_info['title'],
               'url': url}
-    report_list.append(report)
-    print(report)
+    if report_list.__contains__(report_info['stockName']):
+        report_list[report_info['stockName']].append(report)
+    else:
+        report_list[report_info['stockName']] = []
+        report_list[report_info['stockName']].append(report)
+    # print(report)
     # resp = requests.get(url=url, stream=True)
     # with open('./reports/' + report_info['title'] + '.pdf', 'wb') as file:
     #     for data in resp.iter_content():
     #         file.write(data)
 
 
-if __name__ == '__main__':
+def get_single_stock_report(stock_name='all', from_date=None):
     all_bk_info = get_all_bk_code()
     for e in all_bk_info:
         # print(e)
-        single_trades_infos = get_single_trades_info(e['bkCode'])
+        single_trades_infos = get_single_trades_info(e['bkCode'], from_date)
         for info in single_trades_infos:
             # print(info)
-            get_single_report(info)
+            if stock_name == 'all':
+                get_single_report(info)
+            elif info['stockName'] == stock_name:
+                get_single_report(info)
     # print(report_list)
+
+
+if __name__ == '__main__':
+    get_single_stock_report(from_date='2020-11-01')
+    sorted(report_list, key=lambda report: len(report))
+    print(report_list)
